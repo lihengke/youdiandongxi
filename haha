@@ -1,1 +1,25 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>lihengke</title>
+    <style type="text/css">
+        @keyframes lihengke {
+            from{
+                opacity: 0;
+            }
+            to{
+                opacity: 100;
+            }
+        }
+        p{
+            animation:lihengke 2s infinite ;
+        }
+        </style>
+</head>
+<body>
+<p>
+  这是一个动画
+</p>
+</body>
+</html>
